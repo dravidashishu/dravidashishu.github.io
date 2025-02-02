@@ -1,0 +1,16 @@
+# Site settings
+title: Manisha Panchakam
+email: 
+description: "cached thoughts"
+baseurl: ""
+url: "http://dravidashishu.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
